@@ -15,9 +15,7 @@ Este projeto tem como objetivo construir um pipeline de dados no Databricks que:
 
 Para o download, utilize um dos arquivos públicos disponíveis, por exemplo:
 
-- CSV: [https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv](https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv)  
-- Excel: [https://file-examples.com/wp-content/uploads/2017/02/file_example_XLSX_10.xlsx](https://file-examples.com/wp-content/uploads/2017/02/file_example_XLSX_10.xlsx)  
-- JSON: [https://jsonplaceholder.typicode.com/posts](https://jsonplaceholder.typicode.com/posts)
+- CSV: https://github.com/andrerosa77/trn-pyspark/raw/main/  
 
 ## Estrutura do pipeline
 
