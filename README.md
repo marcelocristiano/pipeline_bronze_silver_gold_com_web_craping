@@ -47,12 +47,5 @@ Para o download, utilize um dos arquivos públicos disponíveis, por exemplo:
 
 - Arquivo original salvo no volume `landingzone`.
 - Dados Parquet no volume `bronze`.
-- Dados Delta no volume `silver`.
+- Dados Delta no catálogo `silver`.
 - Tabela Delta criada no catálogo `gold` acessível para consultas.
-
----
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato com [Seu Nome / Equipe].
-
