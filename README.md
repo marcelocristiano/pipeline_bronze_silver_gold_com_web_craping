@@ -1,4 +1,4 @@
-# Projeto Databricks: Pipeline Bronze-Silver-Gold com Web Scraping
+# Projeto Databricks: Pipeline com Web Scraping
 
 ## Descrição
 
