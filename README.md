@@ -36,6 +36,7 @@ Para o download, utilize um dos arquivos públicos disponíveis, por exemplo:
    - Criar tabela Delta no catálogo `gold`.
 
 2. Crie um Job no Databricks para agendar e automatizar a execução do pipeline.
+![Job](img/job_vendas.png)
 
 ## Requisitos
 
