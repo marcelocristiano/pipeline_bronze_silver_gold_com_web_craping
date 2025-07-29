@@ -15,7 +15,7 @@ Este projeto tem como objetivo construir um pipeline de dados no Databricks que:
 
 Para o download, utilize um dos arquivos públicos disponíveis, por exemplo:
 
-- CSV: [https://github.com/andrerosa77/trn-pyspark/raw/main/](https://raw.githubusercontent.com/andrerosa77/trn-pyspark/main/dados_2011.csv)  
+- CSV: https://raw.githubusercontent.com/andrerosa77/trn-pyspark/main/dados_2011.csv
 
 ## Estrutura do pipeline
 
