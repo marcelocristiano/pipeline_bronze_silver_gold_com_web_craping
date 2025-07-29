@@ -51,3 +51,5 @@ Para o download, utilize um dos arquivos públicos disponíveis, por exemplo:
 - Dados Parquet no volume `bronze`.
 - Dados Delta no catálogo `silver`.
 - Tabela Delta criada no catálogo `gold` acessível para consultas.
+
+![Banco de dados de Vendas](img/db_vendas.png)
