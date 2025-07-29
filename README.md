@@ -8,7 +8,7 @@ Este projeto tem como objetivo construir um pipeline de dados no Databricks que:
 2. Salva o arquivo bruto no volume `landingzone`.
 3. Lê o arquivo e grava os dados em formato Parquet no volume `bronze`.
 4. Converte os dados Parquet para Delta e salva no volume `silver`.
-5. Cria uma tabela Delta no catálogo `gold` para consulta analítica.
+5. Cria uma tabelas Delta no catálogo `gold` para consulta analítica.
 6. Automatiza o pipeline através da criação de um Job no Databricks.
 
 ## Fonte dos dados
@@ -50,6 +50,6 @@ Para o download, utilize um dos arquivos públicos disponíveis, por exemplo:
 - Arquivo original salvo no volume `landingzone`.
 - Dados Parquet no volume `bronze`.
 - Dados Delta no catálogo `silver`.
-- Tabela Delta criada no catálogo `gold` acessível para consultas.
+- Tabelas Delta criada no catálogo `gold` acessível para consultas.
 
 ![Banco de dados de Vendas](img/db_vendas.png)
